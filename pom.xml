@@ -15,7 +15,7 @@
     </properties>
 
     <groupId>org.example</groupId>
-    <artifactId>java19_auto_api_v8</artifactId>
+    <artifactId>java19_auto_api</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
